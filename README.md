@@ -1,2 +1,2 @@
 testing phase .....
-not ready for procduction usages 
+not ready for production usages 
