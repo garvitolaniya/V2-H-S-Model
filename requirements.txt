@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pillow
+python-multipart
+pydantic
+numpy
+pycairo
+scikit-learn
+# Optional/future modules:
+torch
+torchvision
+tqdm
+matplotlib
+seaborn
+jupyter
+svgwrite 
